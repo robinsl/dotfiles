@@ -43,3 +43,4 @@
 # resize-overlay-duration = 4s 200ms
 
 theme = dark:tokyonight_moon,light:tokyonight-day
+font-family = CommitMono
