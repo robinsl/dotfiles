@@ -896,3 +896,5 @@ $env.config = {
         }
     ]
 }
+
+alias neovide = /home/robin/Applications/neovide.appimage 
